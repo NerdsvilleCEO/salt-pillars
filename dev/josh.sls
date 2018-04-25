@@ -14,12 +14,12 @@ build_deps:
   {% if grains['os_family'] == 'Debian' %}
     pkgs:
       - gcc
-      - ncurses-dev
-      - readline-dev
-      - openssl-dev
-      - bzip2-dev
-      - pcre-dev
-      - zlib-dev
+      - libncurses5-dev
+      - libreadline-dev
+      - libssl-dev
+      - libbz2-dev
+      - libpcre3-dev
+      - zlib1g-dev
       - make
       - wget
   {% endif %}
