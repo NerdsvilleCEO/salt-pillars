@@ -21,6 +21,10 @@ build_deps:
       - libx11-dev
       - libbz2-dev
       - libpcre3-dev
+      - libXpm-dev
+      - libjpeg-dev 
+      - libgif-dev 
+      - libtiff-dev
       - zlib1g-dev
       - make
       - autoconf
