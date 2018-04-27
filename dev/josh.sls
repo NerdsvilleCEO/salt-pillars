@@ -28,6 +28,7 @@ build_deps:
       - zlib1g-dev
       - make
       - autoconf
+      - libncurses5-dev
       - wget
   {% endif %}
 user_vars:
