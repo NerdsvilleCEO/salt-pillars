@@ -16,6 +16,7 @@ build_deps:
       - gcc
       - libncurses5-dev
       - libreadline-dev
+      - libgtk2.0-dev
       - libssl-dev
       - libx11-dev
       - libbz2-dev
