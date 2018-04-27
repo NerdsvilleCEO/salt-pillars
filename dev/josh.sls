@@ -21,6 +21,7 @@ build_deps:
       - libpcre3-dev
       - zlib1g-dev
       - make
+      - autoconf
       - wget
   {% endif %}
 user_vars:
