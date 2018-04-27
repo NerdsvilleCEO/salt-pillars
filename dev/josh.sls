@@ -15,6 +15,7 @@ build_deps:
     pkgs:
       - gcc
       - libncurses5-dev
+      - libncursesw5-dev
       - libreadline-dev
       - libgtk2.0-dev
       - libssl-dev
