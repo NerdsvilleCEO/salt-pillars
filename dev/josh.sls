@@ -21,7 +21,7 @@ build_deps:
       - libx11-dev
       - libbz2-dev
       - libpcre3-dev
-      - libXpm-dev
+      - libxpm-dev
       - libjpeg-dev 
       - libgif-dev 
       - libtiff-dev
