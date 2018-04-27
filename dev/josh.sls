@@ -17,6 +17,7 @@ build_deps:
       - libncurses5-dev
       - libreadline-dev
       - libssl-dev
+      - libx11-dev
       - libbz2-dev
       - libpcre3-dev
       - zlib1g-dev
