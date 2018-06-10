@@ -2,6 +2,12 @@ build_deps:
   {% if grains['os_family'] == 'RedHat' %}
     pkgs:
       - gcc
+      - libXaw-devel
+      - libjpeg-devel
+      - libpng-devel
+      - giflib-devel
+      - libtiff-devel
+      - ncurses-devel
       - ncurses-devel
       - readline-devel
       - openssl-devel
